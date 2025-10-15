@@ -5,9 +5,29 @@
 
 int main()
 {
-    std::cout << "Hello World!\n";
-    std::cout << "Hello World!\n";
-}
+	printf << ("xxxxxxxxx             x        /n");
+	printf << ("        x             x        /n");
+	printf << ("        x             x        /n"); 
+	printf << ("        x             x        /n");
+	printf << ("        x             x        /n");
+	printf << ("        x             x        /n");
+	printf << ("        x             x        /n");
+	printf << ("        x             x        /n");
+	printf << ("xx      x             x        /n");
+	printf << (" xx     x             x        /n");
+	printf << (" xx     x             x        /n"); 
+	printf << ("  xx    x             x        /n");
+	printf << ("    xxxxx             xxxxxxxxx/n");
+
+
+
+
+
+
+
+
+
+
 
 // Run program: Ctrl + F5 or Debug > Start Without Debugging menu
 // Debug program: F5 or Debug > Start Debugging menu
